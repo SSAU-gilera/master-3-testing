@@ -1,0 +1,31 @@
+[ {
+  "operationId" : 109605,
+  "firstNum" : "23",
+  "firstNumSystem" : "decimal",
+  "secondNum" : "12",
+  "secondNumSystem" : "decimal",
+  "date" : "2023-11-01",
+  "time" : "17:10:07",
+  "operationType" : "add",
+  "result" : "35"
+}, {
+  "operationId" : 354335,
+  "firstNum" : "44",
+  "firstNumSystem" : "decimal",
+  "secondNum" : "6",
+  "secondNumSystem" : "decimal",
+  "date" : "2023-11-01",
+  "time" : "17:11:04",
+  "operationType" : "add",
+  "result" : "50"
+}, {
+  "operationId" : 900721,
+  "firstNum" : "10",
+  "firstNumSystem" : "decimal",
+  "secondNum" : "20",
+  "secondNumSystem" : "decimal",
+  "date" : "2023-11-01",
+  "time" : "19:46:11",
+  "operationType" : "add",
+  "result" : "30"
+} ]

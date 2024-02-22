@@ -1,0 +1,25 @@
+{
+  "name": "my-node-server",
+  "version": "0.0.1",
+  "description": "TypeScript NodeJS Server",
+  "main": "src/app.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/backend/src/app.js",
+    "dev": "nodemon app.ts"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.15.6",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "@types/express-session": "^1.15.11",
+    "@types/node": "^10.12.18",
+    "@types/request": "^2.48.1",
+    "ts-node-dev": "^1.0.0-pre.32",
+    "typescript": "^5.2.2"
+  }
+}

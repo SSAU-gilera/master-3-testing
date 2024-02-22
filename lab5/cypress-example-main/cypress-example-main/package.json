@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^19.1.0",
+    "cypress": "^13.5.0",
+    "typescript": "latest",
+    "@cypress/browserify-preprocessor": "latest"
+  }
+}
